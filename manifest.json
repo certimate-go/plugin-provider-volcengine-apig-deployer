@@ -1,0 +1,16 @@
+{
+  "access_provider_type": "volcengine",
+  "binary": "volcengine-apig.exe",
+  "capability": "deploy",
+  "category": "apigw",
+  "display_name_key": "plugin.volcengine-apig.name",
+  "icon": "volcengine.png",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "volcengine-apig",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
